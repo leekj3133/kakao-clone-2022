@@ -1,5 +1,6 @@
 .user-component{
     justify-content: space-between;
+    margin-bottom:15px;
 }
 .user-component,
 .user-component__column:first-child{
@@ -39,4 +40,29 @@
 }
 .user-component__column:last-child{
     color:rgba(0,0,0,0.5)
+}
+.user-component__info{
+    margin-top:5px;
+    color:rgba(0,0,0,0.4);
+    font-weight: 600;
+}
+
+.user-componet__notification{
+    width: 27px;
+    height: 27px;
+    position: relative;
+    top:10px;
+    left:13px;
+}
+
+
+.user-component__info span{
+    display:bolck;
+    font-size:10px;
+    font-weight: 1000;
+    border: 2px  solid tomato;
+    color:tomato;
+    border-radius:90%;
+   padding: 0px 4px;
+    margin-left: 4px;
 }
