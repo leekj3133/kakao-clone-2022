@@ -34,3 +34,34 @@
     justify-content: space-between;
     color:rgba(0,0,0,0.5);
 }
+
+@keyframes hideSplashScreen{
+    from {
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+        visibility: hidden;
+        /* opacity:0상태에서는 다른 버튼을 클릭할 수 없다.
+        그 이유는 element가 아직 남아 있기 때문
+        그렇기때문에 visibility:hiiden을 이용하여
+        element를 안보이게 해줄 수 있다. */
+    }
+}
+
+#splash-screen{
+    background-color: var(--yellow);
+    position: absolute;
+    height:100vh;
+    /* 화면 높이의 100% */
+    width:100vw;
+    /* 화면 넓이의 100% */
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:132px;
+    animation: hideSplashScreen 0.3s ease-in-out forwards;
+    animation-delay: 2s;
+    /* forward : final propery value - 애니메이션이 끝난 후 끝난 상태 유지 */
+}

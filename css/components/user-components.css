@@ -24,10 +24,20 @@
     font-size:17px;
     color : rgba(0,0,0,0.5);
 }
+@keyframes avatarFadeIn{
+from{
+    opacity: 0;
+}
+to{
+    opacity: 1;
+}
+}
 
 .user-component__avatar--xl{
     height:80px;
     width:80px;
+    animation: avatarFadeIn 2s ease-in-out forwards;
+    animation-delay:2s;
 }
 .user-component__avatar--sm{
     height:60px;
