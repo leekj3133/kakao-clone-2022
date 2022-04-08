@@ -1,5 +1,3 @@
-<pre>
-<code>
-This is Code
-</code>
-</pre>
+내용
+	code
+내용
