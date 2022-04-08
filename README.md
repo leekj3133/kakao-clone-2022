@@ -1,2 +1,1 @@
-* 외부링크: <http://example.com/>
-* 이메일링크: <address@example.com>
+[![DeepEDU 로고](https://www.deepedu.ai/storage/env/light_logo.png)](https://www.deepedu.ai/)
