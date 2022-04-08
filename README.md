@@ -1,3 +1,12 @@
-1. Hello
-2. Welcome 
-3. my repository
++ 안녕
+  + Hello
+    + hi
+
+
+* 안녕
+  * Hello
+    * hi
+
+- 안녕
+  - Hello
+    - hi
