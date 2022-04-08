@@ -1,3 +1,1 @@
-# kokoa Clone 2020 Update
-
-HTML & CSS are so much better!
+안녕하세요!
