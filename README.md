@@ -1,6 +1,6 @@
 Link: [Google][googlelink]
 
-[googlelink] : https://www.google.com/
+[googlelink]: https://google.com
 
 
 [LYNMP 홈페이지][참조 링크 URL]
