@@ -1,3 +1,5 @@
-https://google.com
-<br>
-<https://google.com>
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancerline~~
