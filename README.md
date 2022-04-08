@@ -1,5 +1,3 @@
-내용
-
-	code
-	
-내용
+```
+This is a code
+```
