@@ -1,4 +1,1 @@
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com
-
+[Google](https://google.com, “google link”)
