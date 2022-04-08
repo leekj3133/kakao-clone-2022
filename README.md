@@ -1,3 +1,3 @@
 Link: [Google][googlelink]
-[googlelink] : https://goggle.com “Go google”
+[googlelink] : https://google.com “Go google”
 
