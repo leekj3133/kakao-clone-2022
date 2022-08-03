@@ -2,11 +2,11 @@
 <br>
 ![Alt text](https://www.deepedu.ai/storage/env/light_logo.png "DEEP:EDU")
 
-1. *single asterisks*
-2. _single underscores_
-3. **double asterisks**
-4. __double underscores__
-5. ~~cancerline~~
+1. __볼드(진하게)__  
+2. _이탤릭체(기울여서)_    
+3. ~~취소선~~  
+4. <u>밑줄</u>  
+5. __볼드 사이에*이탤릭으로 기울이고*__(중복 활용 가능)
 
 
 
